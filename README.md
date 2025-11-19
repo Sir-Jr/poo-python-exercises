@@ -218,6 +218,7 @@ python -m pytest tests/test_exercicio02.py -v
 
 
 # Para testar apenas o exercício 2
+```bash
 python -m pytest tests/test_exercicio02.py -v
 ```
 
