@@ -1,5 +1,4 @@
-# Relatório Técnico – Correções dos 7 Erros Identificados
-
+# Relatório dos Erros identificados no Exercio_10.md – Correções dos 7 Erros com as soluções.
 ## Erro 1 – Nome da classe fora da convenção
 **Problema:** A classe estava nomeada como `pessoa`, violando a convenção PascalCase usada para classes.  
 **Correção:** Renomeada para `Pessoa`.  
@@ -53,5 +52,3 @@ if len(self.notas) == 0:
 
 ---
 
-# Conclusão
-As correções alinham o código com princípios fundamentais da Programação Orientada a Objetos, garantindo funcionamento estável, seguro e bem estruturado.
