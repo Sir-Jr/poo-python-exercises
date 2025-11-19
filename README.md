@@ -213,7 +213,7 @@ pip install -r requirements.txt
 #### Executando um teste específico
 ```bash
 # Para testar apenas o exercício 1
-python -m pytest tests/test_exercicio02.py -v
+python -m pytest tests/test_exercicio01.py -v
 ```
 
 
